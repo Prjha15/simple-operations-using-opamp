@@ -12,11 +12,11 @@ The inverting op-amp adder circuit has the following components:
 
 
 
-1.Voltage Sources (V1, V2): Provide input signals to the inverting op-amp adder.
+1.Voltage Sources (V1,V2,V3): Provide input signals to the inverting op-amp adder.
 
-2.Resistors (R1, R2, Rf): The resistors set the input and feedback levels of the circuit. All resistors are 10kΩ.
+2.Resistors (R1, R2, R3, Rf): The resistors set the input and feedback levels of the circuit. All resistors are 10kΩ.
 
-3.R1 and R2 are the input resistors connected to the voltage sources.
+3.R1 ,R2 and R3 are the input resistors connected to the voltage sources.
 
 4.Rf is the feedback resistor that connects the output to the inverting terminal.
 
